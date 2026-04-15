@@ -30,12 +30,12 @@ This project involved updating and improving the front-end of a real-world vacat
 
 <table>
   <tr>
-    <td><img src="screenshot1.png" width="300"/></td>
-    <td><img src="screenshot2.png" width="300"/></td>
+    <td><img src="Screenshot1.png" width="300"/></td>
+    <td><img src="Screenshot2.png" width="300"/></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="screenshot3.png" width="300"/>
+      <img src="Screenshot3.png" width="300"/>
     </td>
   </tr>
 </table>
